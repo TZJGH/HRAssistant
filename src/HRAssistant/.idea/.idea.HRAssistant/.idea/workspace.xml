@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd10cd26-03b2-4708-bfbb-4b61234cfdbc" name="Default Changelist" comment="delete init project" />
+    <list default="true" id="cd10cd26-03b2-4708-bfbb-4b61234cfdbc" name="Default Changelist" comment="  afaafaf">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HRAssistant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HRAssistant/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRAssistant.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HRAssistant.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/HRAssistant/Class1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://F:/Source/Repos/TZJGH/HRAssistant/src/HRAssistant/HRAssistant/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Model/Class1.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1tQS4zyyuOLHUigDKt4oE2Y7qAt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622699632969</updated>
-      <workItem from="1622699646396" duration="317000" />
+      <workItem from="1622699646396" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1622699740532</created>
@@ -53,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622699803205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="  afaafaf">
+      <created>1622699983030</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622699983030</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,6 +76,16 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -76,6 +101,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="delete init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete init project" />
+    <MESSAGE value="  afaafaf" />
+    <option name="LAST_COMMIT_MESSAGE" value="  afaafaf" />
   </component>
 </project>

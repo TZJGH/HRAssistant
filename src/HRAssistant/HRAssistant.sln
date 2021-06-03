@@ -1,10 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B0E54539-D62F-4040-AD6E-6F6C70B3217F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{E72D315D-F8B8-4612-BEB5-2F2FDFA54BAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E54539-D62F-4040-AD6E-6F6C70B3217F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E54539-D62F-4040-AD6E-6F6C70B3217F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E54539-D62F-4040-AD6E-6F6C70B3217F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E54539-D62F-4040-AD6E-6F6C70B3217F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72D315D-F8B8-4612-BEB5-2F2FDFA54BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72D315D-F8B8-4612-BEB5-2F2FDFA54BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72D315D-F8B8-4612-BEB5-2F2FDFA54BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72D315D-F8B8-4612-BEB5-2F2FDFA54BAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
