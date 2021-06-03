@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd10cd26-03b2-4708-bfbb-4b61234cfdbc" name="Default Changelist" comment="  afaafaf">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HRAssistant/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HRAssistant/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HRAssistant.sln" beforeDir="false" afterPath="$PROJECT_DIR$/HRAssistant.sln" afterDir="false" />
+    <list default="true" id="cd10cd26-03b2-4708-bfbb-4b61234cfdbc" name="Default Changelist" comment="添加两个类库">
+      <change afterPath="$PROJECT_DIR$/Infrastructure/Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/Model.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netstandard2.1/Model.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netstandard2.1/Model.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netstandard2.1/Model.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Debug/netstandard2.1/Model.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/Model.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +43,7 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Model/Class1.cs" />
+      <option value="$PROJECT_DIR$/Infrastructure/Class1.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tQS4zyyuOLHUigDKt4oE2Y7qAt" />
@@ -45,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622699632969</updated>
-      <workItem from="1622699646396" duration="1196000" />
+      <workItem from="1622699646396" duration="1549000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1622699740532</created>
@@ -68,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622699983030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加两个类库">
+      <created>1622701089557</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622701089557</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +133,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="delete init project" />
     <MESSAGE value="  afaafaf" />
-    <option name="LAST_COMMIT_MESSAGE" value="  afaafaf" />
+    <MESSAGE value="添加两个类库" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加两个类库" />
   </component>
 </project>
